@@ -9,5 +9,4 @@ public class Start
         animal.animalSound("high");
         animal.animalSound("low");
     }
-    //non capisco perchè nonstate metta high o low non funzioni
 }

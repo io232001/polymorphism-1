@@ -19,6 +19,8 @@ public class Animal
         else if (intensity.equals("Low"))
         {
             System.out.println("Roar");
+        }else {
+            System.out.println("Cannot reproduce");
         }
     }
 }
